@@ -1,5 +1,4 @@
-# Squircle Generator – Free Online Tool to Create Smooth Image Corners
-
+# Squircle Generator – Free Online Tool
 **Squircle Generator** is a fast, free, and reliable web-based tool to transform your images into squircle shapes. Whether you're designing app icons, preparing brand assets, or creating profile images, this tool helps you convert any image into a beautifully rounded squircle with precision and ease.
 
 This is a focused utility designed for creators, developers, and designers who value speed, control, and clean visuals — without relying on heavy graphic software.
